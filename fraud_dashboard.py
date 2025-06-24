@@ -9,7 +9,7 @@ from sklearn.metrics import confusion_matrix, roc_curve, roc_auc_score
 from sklearn.preprocessing import StandardScaler
 
 # Load and clean data
-df = pd.read_csv('creditcard.csv')
+df = pd.read_csv('creditcard_sample.csv')
 df.columns = df.columns.str.strip()  # clean column names
 
 # Prepare label
