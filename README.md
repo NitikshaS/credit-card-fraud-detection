@@ -40,3 +40,11 @@ Please download the full dataset directly from Kaggle if needed.
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn plotly streamlit
+![Credit card fraud detection](https://github.com/user-attachments/assets/f6896482-8d6d-4fcb-a844-7a9f0b778f08)
+
+## 📸 Screenshots
+
+![Dashboard Screenshot](Credit card fraud detectiont.png)
+
+
+
