@@ -25,7 +25,7 @@ This project analyzes real credit card transaction data to detect fraudulent act
 
 🔗 **Live App**: [Click here to open the dashboard](https://credit-card-fraud-detection-aaooxsi9zfzz2yztd5srtc.streamlit.app/)
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com/your-screenshot-path.png)
+![Dashboard Screenshot](https://user-images.githubusercontent.com/Credit card fraud detection.png)
 
 ---
 
